@@ -1,12 +1,14 @@
 ---
 title: "personal_blog"
 listing:
-  contents: posts
+  contents: posts/**/*.qmd
+  #contents: posts # "reports/*.qmd"
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---

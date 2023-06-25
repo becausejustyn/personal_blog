@@ -1,9 +1,22 @@
 [
   {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/test-post/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/posts/barplots/index.html",
+      "/posts/combinations/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/posts/test-post/index.html",
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/barplots/index.html",
+      "/posts/combinations/index.html"
     ]
   }
 ]
